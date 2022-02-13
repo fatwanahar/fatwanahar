@@ -1,0 +1,3 @@
+- 👋 Hi, I’m fatwanahar
+- 👀 I’m interested in web programming and AI
+- 🌱 I’m currently Study Informatics 
